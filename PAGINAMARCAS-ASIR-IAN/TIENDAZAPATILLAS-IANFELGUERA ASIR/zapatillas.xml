@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="zapatillas.xsl"?> 
+<zapatillas>
+       <jordan>
+          <nombre>Jordan 1 Retro High Spider-Man </nombre>
+          <precio>150€</precio>
+          <salida>2018</salida>
+          <foto>img/Air-Jordan-1SP.jpg</foto>
+      </jordan>
+      <jordan>
+          <nombre>Jordan Max Aura 2</nombre>
+          <precio>120€</precio>
+          <salida>2020</salida>
+          <foto>img/Jordan2.jpg</foto>
+      </jordan>
+      <jordan>
+          <nombre>Air Jordan III Free Throw Line</nombre>
+          <precio>200€</precio>
+          <salida>2018</salida>
+          <foto>img/jordan3.jpg</foto>
+      </jordan>
+      <jordan>
+          <nombre>Air Jordan IV Flight Nostalgia</nombre>
+          <precio>200€</precio>
+          <salida>2018</salida>
+          <foto>img/jordan4.jpg</foto>
+      </jordan>
+      <jordan>
+          <nombre>Air Jordan 5 Fire Red</nombre>
+          <precio>200€</precio>
+          <salida>2020</salida>
+      <foto>img/jordan5.jpg</foto>
+    </jordan>
+</zapatillas>
